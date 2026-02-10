@@ -178,4 +178,4 @@ EC2 Console → Instance → **Actions → Image and templates → Create image*
 ---
 
 ## Reference: 
-[How to Configure PHP-FPM with NGINX for Secure PHP Processing]([URL](https://www.digitalocean.com/community/tutorials/php-fpm-nginx))
+[How to Configure PHP-FPM with NGINX for Secure PHP Processing](https://www.digitalocean.com/community/tutorials/php-fpm-nginx)
