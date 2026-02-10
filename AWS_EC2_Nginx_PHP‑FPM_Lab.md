@@ -177,4 +177,5 @@ EC2 Console → Instance → **Actions → Image and templates → Create image*
 
 ---
 
-If you want, I can also generate a README‑ready badge header or a GitHub‑style folder structure for this lab.
+## Reference: 
+[How to Configure PHP-FPM with NGINX for Secure PHP Processing]([URL](https://www.digitalocean.com/community/tutorials/php-fpm-nginx))
